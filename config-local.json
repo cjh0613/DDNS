@@ -1,0 +1,19 @@
+{
+  "$schema": "https://ddns.newfuture.cc/schema/v2.8.json",
+  "debug": false,
+  "dns": "dnspod",
+  "id": "130361",
+  "index4": "default",
+  "index6": "local",
+  "ipv4": [
+    "local.pi.cjh3.tk",
+    "l.pi.cjh3.tk"
+  ],
+  "ipv6": [
+    
+  ],
+  "proxy": null,
+  "token": "1f91e98de0de1ba8d08f88d5989b76d7",
+  "ttl": null, 
+  "cache": true
+}
